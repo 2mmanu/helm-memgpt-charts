@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  memgpt:
+  - apiVersion: v2
+    appVersion: 0.3.17
+    created: "2024-08-27T13:46:14.140062-07:00"
+    description: MemGPT Helm chart
+    digest: b9309caaa4cf4327d043f584dfbae0d58c8d4438125c9a16fb1fdb1381dc80d4
+    icon: https://files.readme.io/da7f719-small-memgpt_logo_circle_nuno.png
+    name: memgpt
+    type: application
+    urls:
+    - memgpt-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-27T13:46:14.13951-07:00"
